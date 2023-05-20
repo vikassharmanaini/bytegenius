@@ -1,0 +1,71 @@
+.tablets{
+    height: 35vw;
+    width: 92vw;
+    /* background-color: blue; */
+    margin:auto;
+    position: relative;
+    display: block;
+}
+.tb{
+    border: solid silver 0.2vw;
+    position: absolute;
+    width: 30vw;
+    height: 22vw;
+    background-color: black;
+    border-radius: 1.5vw;
+    margin: auto;margin: 0.25vw;
+    display: inline-block;
+    padding: 1vw;
+    box-shadow: 0.2vw 0.41vw rgba(128, 128, 128, 0.233);
+}
+.tablet3{
+    margin-left: 61vw;
+}
+.tablet2{
+    margin-top: 11vw;
+    margin-left:30.5vw;
+}
+.certificate{
+    background-color: rgb(255, 255, 255);
+    height: 19.5vw;
+    width: 27.5vw;
+    border-radius: 0.5vw;
+    background: url('../../../../assets/certificate/java_basic certificate_page-0001.jpg');
+    background-size: 27.5vw 19.5vw;
+    
+}
+.openbook{
+    border: solid 0.2vw;
+    border-radius: 1vw;
+    padding:0.7vw;
+    font-size: 2vw;
+    position: absolute;
+    margin-left: 38vw;
+    font-family: cursive;
+}
+.openbook:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    box-shadow: 0.5vw 0.5vw ;
+}
+.buttons{
+    text-align: center;
+    height: 5vw;
+}
+.buttons button,.buttons h3{
+    vertical-align: middle;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    display: inline-block;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nav-button{
+    width: 3vw;
+    height: 3vw;
+    border: solid black;
+    box-shadow: 0.2vw 0.2vw rgba(0, 0, 0, 0.26);
+    margin: auto;
+}
+.mat-button{
+    vertical-align: middle;
+}

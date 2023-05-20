@@ -1,0 +1,36 @@
+li {
+    /* position: absolute; */
+    position:inherit;
+    z-index: -100;
+    margin: 20px;
+    border: solid 1px black;
+    padding: 10px;
+    height: 50px;
+    width: 45px;
+    transform: perspective(1000px) rotate(-30deg) skew(25deg) translate(0, 0);
+    display: inline-block;
+    text-align: center;
+    transition: .5s;
+    overflow: hidden;
+    box-shadow: 0 1px 6px #00000057, 0 1px 4px #00000070;
+    background-color: rgb(255, 255, 255);
+    /* background-color: blue; */
+}
+
+ 
+i {
+    display: block;
+    width: 20px;
+}
+
+ul {
+    height: 4rem;
+    text-align: center;
+}
+li:hover{
+    transform: perspective(1000px) rotate(-30deg) skew(25deg) translate(10px,-10px);
+    box-shadow: 0 10px 16px #000000d0, 0 10px 14px #000000c4;
+}
+.bg{
+    background: url(https://w0.peakpx.com/wallpaper/112/896/HD-wallpaper-horizontal-wooden-texture-wooden-patterns-brown-wooden-background-wooden-textures-wooden-backgrounds-wooden-planks-brown-backgrounds.jpg);
+}
