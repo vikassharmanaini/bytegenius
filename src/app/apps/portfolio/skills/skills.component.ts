@@ -21,15 +21,17 @@ export class SkillsComponent {
   itech=0;
   data :any;
 
-  constructor(private learn:LearnService){}
-
-  ngOnInit(): void {
+  constructor(private learn:LearnService){
     this.learn.getdata().subscribe(res=>{
 
       this.data = res;
       console.log(this.data);
       
     })
+  }
+
+  ngOnInit(): void {
+   
   }
   ite = document.getElementsByClassName('card');
   next(){

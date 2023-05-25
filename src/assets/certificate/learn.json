@@ -1,99 +1,189 @@
 [
     {
-        "id":"WFrontend",
-        "techs":[
+        "id": "WFrontend",
+        "techs": [
             {
-                "name":"HTML, CSS & JS",
-                "whatis":"HTML (HyperText Markup Language) is a markup language used to structure the content of web pages. CSS (Cascading Style Sheets) is used to define the presentation and layout of HTML elements. JavaScript is a programming language that adds interactivity and dynamic behavior to web pages.",
-                "experties":"I have a strong expertise in HTML, CSS, and JavaScript, which are the core technologies for building modern websites and web applications. I have extensive experience in creating responsive layouts, styling web pages with CSS, and implementing interactive functionality using JavaScript. I am proficient in using various frameworks and libraries such as Bootstrap and jQuery. Additionally, I possess a solid understanding of cross-browser compatibility and web accessibility standards. With my skills, I am confident in delivering high-quality web solutions that meet the desired requirements and enhance user experiences."
+                "name": "HTML, CSS & JS",
+                "whatis": "HTML (HyperText Markup Language) is a markup language used to structure the content of web pages. CSS (Cascading Style Sheets) is used to define the presentation and layout of HTML elements. JavaScript is a programming language that adds interactivity and dynamic behavior to web pages.",
+                "experties": "I have a strong expertise in HTML, CSS, and JavaScript, which are the core technologies for building modern websites and web applications. I have extensive experience in creating responsive layouts, styling web pages with CSS, and implementing interactive functionality using JavaScript. I am proficient in using various frameworks and libraries such as Bootstrap and jQuery. Additionally, I possess a solid understanding of cross-browser compatibility and web accessibility standards. With my skills, I am confident in delivering high-quality web solutions that meet the desired requirements and enhance user experiences."
             },
             {
-                "name":"React",
-                "whatis":"React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the user interface as the application state changes. React follows a component-based approach and provides a virtual DOM for optimal performance and efficient rendering.",
-                "experties":"I have a strong expertise in React, a popular JavaScript library for building user interfaces. I have hands-on experience in developing dynamic and responsive web applications using React components and its ecosystem. I am proficient in utilizing React's state management and component lifecycle methods to create scalable and efficient applications. I have also worked with React Router for navigation and Redux for global state management. With my React skills, I am confident in delivering highly interactive and performant web solutions that enhance user experiences.  "
+                "name": "React",
+                "whatis": "React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the user interface as the application state changes. React follows a component-based approach and provides a virtual DOM for optimal performance and efficient rendering.",
+                "experties": "I have a strong expertise in React, a popular JavaScript library for building user interfaces. I have hands-on experience in developing dynamic and responsive web applications using React components and its ecosystem. I am proficient in utilizing React's state management and component lifecycle methods to create scalable and efficient applications. I have also worked with React Router for navigation and Redux for global state management. With my React skills, I am confident in delivering highly interactive and performant web solutions that enhance user experiences.  "
             },
             {
-                "name":"Vue JS",
-                "whatis":"Vue.js is a progressive JavaScript framework used for building user interfaces in web development. It enables developers to create interactive and responsive applications by providing a declarative approach to binding data and components, facilitating efficient development and enhanced user experiences.",
-                "experties":"While I have beginner-level experience in Vue.js, I am enthusiastic about expanding my expertise in this JavaScript framework. I have completed several projects using Vue.js, gaining hands-on experience in creating interactive and dynamic user interfaces. I am familiar with Vue's component-based architecture and its reactivity system. I am eager to continue learning and honing my skills in Vue.js, and I believe my solid foundation in JavaScript and front-end development will contribute to my growth in this framework. I am excited about the opportunity to further develop my expertise in Vue.js and contribute to the team's success."
+                "name": "Vue JS",
+                "whatis": "Vue.js is a progressive JavaScript framework used for building user interfaces in web development. It enables developers to create interactive and responsive applications by providing a declarative approach to binding data and components, facilitating efficient development and enhanced user experiences.",
+                "experties": "While I have beginner-level experience in Vue.js, I am enthusiastic about expanding my expertise in this JavaScript framework. I have completed several projects using Vue.js, gaining hands-on experience in creating interactive and dynamic user interfaces. I am familiar with Vue's component-based architecture and its reactivity system. I am eager to continue learning and honing my skills in Vue.js, and I believe my solid foundation in JavaScript and front-end development will contribute to my growth in this framework. I am excited about the opportunity to further develop my expertise in Vue.js and contribute to the team's success."
             },
             {
-                "name":"Angular",
-                "whatis":"Angular is a popular JavaScript framework for building dynamic web applications. It provides a structured approach to develop scalable and maintainable front-end code. Angular combines declarative templates, dependency injection, and powerful data binding to simplify the development process and enhance the user experience.",
-                "experties":"I have advanced-level expertise in Angular, a powerful TypeScript-based framework for building robust web applications. I have a strong command over Angular concepts, such as components, services, directives, and modules. I have successfully delivered complex projects using Angular, leveraging its powerful features like data binding, dependency injection, and routing. I am well-versed in Angular's Reactive Forms and HttpClient for handling data submission and retrieval. Additionally, I have experience integrating Angular applications with back-end APIs and working with tools like Angular CLI and Angular Material. With my advanced Angular skills, I am confident in delivering scalable and maintainable applications that meet business requirements."
+                "name": "Angular",
+                "whatis": "Angular is a popular JavaScript framework for building dynamic web applications. It provides a structured approach to develop scalable and maintainable front-end code. Angular combines declarative templates, dependency injection, and powerful data binding to simplify the development process and enhance the user experience.",
+                "experties": "I have advanced-level expertise in Angular, a powerful TypeScript-based framework for building robust web applications. I have a strong command over Angular concepts, such as components, services, directives, and modules. I have successfully delivered complex projects using Angular, leveraging its powerful features like data binding, dependency injection, and routing. I am well-versed in Angular's Reactive Forms and HttpClient for handling data submission and retrieval. Additionally, I have experience integrating Angular applications with back-end APIs and working with tools like Angular CLI and Angular Material. With my advanced Angular skills, I am confident in delivering scalable and maintainable applications that meet business requirements."
             },
             {
-                "name":"Flutter",
-                "whatis":"Flutter is a UI toolkit developed by Google for creating natively compiled applications across different platforms, including the web. It uses Dart programming language and provides a reactive framework for building interactive and visually appealing user interfaces for web applications.",
-                "experties":"I have a strong expertise in Flutter for web development. I have successfully developed and deployed web applications using Flutter's framework and widgets. I am proficient in creating responsive and visually appealing user interfaces using Flutter's declarative UI paradigm. I have hands-on experience in leveraging Flutter's rich set of libraries and packages for implementing complex functionalities in web applications. Additionally, I am well-versed in integrating web APIs and handling data using Flutter's networking capabilities. With my expertise in Flutter for web development, I am confident in delivering high-quality and performant web solutions to meet the desired requirements."
+                "name": "Flutter",
+                "whatis": "Flutter is a UI toolkit developed by Google for creating natively compiled applications across different platforms, including the web. It uses Dart programming language and provides a reactive framework for building interactive and visually appealing user interfaces for web applications.",
+                "experties": "I have a strong expertise in Flutter for web development. I have successfully developed and deployed web applications using Flutter's framework and widgets. I am proficient in creating responsive and visually appealing user interfaces using Flutter's declarative UI paradigm. I have hands-on experience in leveraging Flutter's rich set of libraries and packages for implementing complex functionalities in web applications. Additionally, I am well-versed in integrating web APIs and handling data using Flutter's networking capabilities. With my expertise in Flutter for web development, I am confident in delivering high-quality and performant web solutions to meet the desired requirements."
             },
             {
-                "name":"Word Press",
-                "whatis":"WordPress is a popular content management system (CMS) used in web frontend development. It provides a user-friendly interface for managing website content and themes. With its extensive plugin ecosystem, developers can customize and enhance websites built on WordPress to meet specific requirements.",
-                "experties":"I have a strong expertise in WordPress, a widely used content management system (CMS) for building websites. I have extensive experience in customizing and developing WordPress themes and plugins. I am proficient in leveraging the WordPress ecosystem to create user-friendly and scalable websites. I have a solid understanding of WordPress coding standards, hooks, and APIs. Additionally, I possess strong troubleshooting and debugging skills in WordPress. With my expertise in WordPress, I am confident in delivering high-quality and efficient solutions that meet the specific needs of clients and enhance their online presence."
+                "name": "Word Press",
+                "whatis": "WordPress is a popular content management system (CMS) used in web frontend development. It provides a user-friendly interface for managing website content and themes. With its extensive plugin ecosystem, developers can customize and enhance websites built on WordPress to meet specific requirements.",
+                "experties": "I have a strong expertise in WordPress, a widely used content management system (CMS) for building websites. I have extensive experience in customizing and developing WordPress themes and plugins. I am proficient in leveraging the WordPress ecosystem to create user-friendly and scalable websites. I have a solid understanding of WordPress coding standards, hooks, and APIs. Additionally, I possess strong troubleshooting and debugging skills in WordPress. With my expertise in WordPress, I am confident in delivering high-quality and efficient solutions that meet the specific needs of clients and enhance their online presence."
+            }
+        ]
+    },
+    {
+        "id": "WBackend",
+        "techs": [
+            {
+                "name": "JAVA EE",
+                "whatis": "Java EE (Java Platform, Enterprise Edition) is a set of specifications and APIs (Application Programming Interfaces) that provide a robust and scalable platform for developing enterprise-level applications on the backend. It includes features for database connectivity, web services, messaging, security, and more, enabling developers to build complex and distributed systems.",
+                "experties": ""
+            },
+            {
+                "name": "JAVA Spring",
+                "whatis": "Spring is a widely used framework for backend development in Java. It provides a comprehensive set of features and tools for building enterprise-grade applications. Spring simplifies tasks such as database access, dependency injection, security, and more, promoting efficient and scalable backend development.",
+                "experties": ""
+            },
+            {
+                "name": "Laravel",
+                "whatis": "Laravel is a PHP-based web application framework used for backend development. It provides a robust set of tools and features to streamline the creation of web applications. Laravel follows the Model-View-Controller (MVC) architectural pattern and offers functionalities like routing, database management, caching, and session handling.",
+                "experties": ""
+            },
+            {
+                "name": "Node JS",
+                "whatis": "Node.js is a server-side JavaScript runtime environment that allows developers to build scalable and efficient backend applications. It uses an event-driven, non-blocking I/O model, making it ideal for handling concurrent requests. Node.js enables developers to write server-side code using JavaScript, facilitating seamless full-stack development.",
+                "experties": ""
+            },
+            {
+                "name": "PHP",
+                "whatis": "PHP (Hypertext Preprocessor) is a server-side scripting language used for backend development. It enables the creation of dynamic web applications by processing data, interacting with databases, and generating dynamic web pages. PHP is widely used in conjunction with web frameworks like Laravel, CodeIgniter, and Symfony for building robust backend systems.",
+                "experties": ""
+            },
+            {
+                "name": "Django",
+                "whatis": "Django is a high-level Python web framework used in backend development. It follows the model-view-controller (MVC) architectural pattern and provides a robust set of tools and libraries for building scalable and secure web applications. Django handles tasks such as URL routing, database integration, session management, and form handling.",
+                "experties": ""
+            },
+            {
+                "name": "Flask",
+                "whatis": "Flask is a lightweight web framework written in Python that is commonly used for backend development. It provides tools and libraries for building web applications, handling HTTP requests, managing routing, and connecting to databases. Flask is known for its simplicity, flexibility, and scalability, making it a popular choice for developing backend systems.",
+                "experties": ""
+            }
+        ]
+    },
+    {
+        "id": "Full Stack",
+        "techs": [
+            {
+                "name": "Java Full Stack",
+                "whatis": "Java Full Stack refers to the combination of front-end and back-end development using Java programming language. It involves working with frameworks, databases, and server-side technologies to create dynamic and interactive web applications, covering both client-side and server-side development aspects.",
+                "experties": "My expertise in Java Full Stack development is extensive, encompassing both backend and frontend technologies. I have a strong command over Java, Spring Boot, Hibernate for backend development, and I am skilled in building responsive user interfaces using HTML, CSS, JavaScript, and frameworks like Angular. With my experience, I am confident in delivering high-quality, scalable, and efficient full-stack solutions."
+            },
+            {
+                "name": "MERN Stack",
+                "whatis": "MERN Full Stack refers to a web development stack that combines MongoDB, Express.js, React.js, and Node.js. It enables developers to build dynamic and scalable applications using JavaScript for both the front-end and back-end, along with a NoSQL database.",
+                "experties": "My expertise in the MERN stack includes extensive knowledge and hands-on experience with MongoDB, Express.js, React.js, and Node.js. I have successfully built and deployed several web applications using this technology stack. I am proficient in designing RESTful APIs, creating dynamic and responsive front-end interfaces, and handling backend functionalities. I am confident in my ability to contribute effectively to projects using the MERN stack."
+            },
+            {
+                "name": "MEAN Stack",
+                "whatis": "MEAN Full Stack refers to a web development stack that combines four technologies: MongoDB (a NoSQL database), Express.js (a web application framework), Angular (a front-end framework), and Node.js (a runtime environment). It enables the development of dynamic, scalable, and JavaScript-based web applications.                ",
+                "experties": "I have extensive expertise in the MEAN stack, which includes MongoDB, Express.js, Angular, and Node.js. I have successfully developed and deployed numerous web applications using these technologies, demonstrating my strong knowledge in full-stack development. With my skills, I can contribute to building scalable and efficient web solutions that meet the company's requirements and objectives."
+            },
+            {
+                "name": "Next Js",
+                "whatis": "NEXT JS Full Stack is a comprehensive software development program that equips individuals with the skills to build complete web applications. It covers frontend and backend technologies, databases, deployment, and more, enabling students to become proficient in all aspects of the software development process.",
+                "experties": "My expertise in the Next stack is well-grounded and extensive. I possess strong knowledge and hands-on experience in developing scalable web applications using Next.js, React, and Node.js. I have successfully delivered projects leveraging these technologies, demonstrating proficiency in server-side rendering, API integrations, and building intuitive user interfaces. I am confident in my ability to contribute effectively to any team and deliver exceptional results."
+            },
+            {
+                "name": "Nest Js",
+                "whatis": "NEST JS Full Stack is a comprehensive framework for building scalable web applications using the NEST.js backend and Angular front-end. It combines the power of TypeScript, Node.js, Express, and Angular to enable developers to create end-to-end, robust, and efficient applications with a single technology stack.",
+                "experties": "I have extensive expertise in the NEST Full Stack, a powerful framework for building scalable web applications. I possess strong knowledge in utilizing NEST.js for developing robust backend systems, as well as leveraging Angular for creating efficient front-end interfaces. My experience includes successfully delivering end-to-end projects, ensuring high performance, code quality, and excellent user experiences."
             }
 
         ]
     },
     {
-        "id":"WBackend",
-        "techs":[
+        "id": "Mobile",
+        "techs": [
             {
-                "name":"JAVA EE",
-                "whatis":"Java EE (Java Platform, Enterprise Edition) is a set of specifications and APIs (Application Programming Interfaces) that provide a robust and scalable platform for developing enterprise-level applications on the backend. It includes features for database connectivity, web services, messaging, security, and more, enabling developers to build complex and distributed systems.",
+                "name":"Android",
+                "whatis":"Android app development is the process of creating applications for devices running the Android operating system. It involves designing, coding, and testing mobile apps using programming languages like Java or Kotlin. Developers utilize Android SDK and tools to build user-friendly and functional apps for smartphones and tablets.",
+                "experties":"I possess extensive expertise in Android Development, backed by strong knowledge and experience in designing and developing robust mobile applications. I am proficient in Java and Kotlin programming languages, adept at utilizing Android SDK, and familiar with various frameworks and libraries. My skills encompass UI/UX design, API integration, performance optimization, and delivering high-quality, user-centric applications."
+            },
+            {
+                "name":"Flutter",
+                "whatis":"Flutter development is a framework for creating cross-platform mobile applications. It enables developers to build high-performance apps with a single codebase, reducing development time and effort. Flutter uses Dart programming language and offers a rich set of widgets for building visually appealing and responsive user interfaces.",
+                "experties":"I have extensive expertise in Flutter app development, with a strong understanding of its framework, UI design, state management, and integration with backend services. I have successfully developed and deployed various Flutter applications, leveraging its cross-platform capabilities to deliver high-quality and performant mobile experiences. My knowledge and experience make me a valuable asset for any Flutter development team."
+            },
+            {
+                "name":"React Native",
+                "whatis":"React Native is a popular framework for mobile app development that enables developers to build cross-platform applications using JavaScript and React. It allows code reuse across iOS and Android platforms, resulting in faster development cycles and reduced development costs.",
+                "experties":"I possess intermediate expertise in React Native development, backed by hands-on experience in building cross-platform mobile applications. I have a solid understanding of React Native fundamentals, component-based architecture, and leveraging third-party libraries. My ability to deliver high-quality code, collaborate with teams, and continuously learn makes me a valuable asset for your organization's mobile development projects."
+            },
+            {
+                "name":"PWA",
+                "whatis":"PWA development refers to the creation of Progressive Web Apps, which are web applications that can be accessed and used like native mobile apps. PWAs combine the best of both web and mobile app experiences, offering offline capabilities, push notifications, and device integration, while being built using web technologies.",
+                "experties":"I possess intermediate expertise in Progressive Web App (PWA) development. I have experience in leveraging web technologies such as HTML, CSS, and JavaScript to build PWAs that offer a native-like user experience across multiple platforms. I am proficient in utilizing service workers, caching strategies, and responsive design principles to optimize performance and engagement."
+            },
+            {
+                "name":"IONIC",
+                "whatis":"Ionic is an open-source framework that enables the development of cross-platform mobile applications using web technologies such as HTML, CSS, and JavaScript. It provides a library of pre-built UI components and integrates with popular frameworks like Angular, making it easy to build and deploy mobile apps across multiple platforms.",
+                "experties":"I possess intermediate expertise in Ionic Development, with a solid understanding of its core concepts, framework, and tooling. I have hands-on experience in building cross-platform mobile applications using Ionic, Angular, and HTML/CSS. I am eager to continue expanding my knowledge and skills in Ionic development and contribute effectively to the organization's mobile development projects. "
+            }
+        ]
+    },
+    {
+        "id": "Rest-API",
+        "techs": [
+            {
+                "name":"Spring Boot",
+                "whatis":"",
                 "experties":""
             },
             {
-                "name":"JAVA Spring",
-                "whatis":"Spring is a widely used framework for backend development in Java. It provides a comprehensive set of features and tools for building enterprise-grade applications. Spring simplifies tasks such as database access, dependency injection, security, and more, promoting efficient and scalable backend development.",
-                "experties":""
-            },
-            {
-                "name":"Laravel",
-                "whatis":"Laravel is a PHP-based web application framework used for backend development. It provides a robust set of tools and features to streamline the creation of web applications. Laravel follows the Model-View-Controller (MVC) architectural pattern and offers functionalities like routing, database management, caching, and session handling.",
-                "experties":""
-            },
-            {
-                "name":"Node JS",
-                "whatis":"Node.js is a server-side JavaScript runtime environment that allows developers to build scalable and efficient backend applications. It uses an event-driven, non-blocking I/O model, making it ideal for handling concurrent requests. Node.js enables developers to write server-side code using JavaScript, facilitating seamless full-stack development.",
-                "experties":""
-            },
-            {
-                "name":"PHP",
-                "whatis":"PHP (Hypertext Preprocessor) is a server-side scripting language used for backend development. It enables the creation of dynamic web applications by processing data, interacting with databases, and generating dynamic web pages. PHP is widely used in conjunction with web frameworks like Laravel, CodeIgniter, and Symfony for building robust backend systems.",
+                "name":"Express JS",
+                "whatis":"",
                 "experties":""
             },
             {
                 "name":"Django",
-                "whatis":"Django is a high-level Python web framework used in backend development. It follows the model-view-controller (MVC) architectural pattern and provides a robust set of tools and libraries for building scalable and secure web applications. Django handles tasks such as URL routing, database integration, session management, and form handling.",
+                "whatis":"",
                 "experties":""
-
             },
             {
-                "name":"Flask",
-                "whatis":"Flask is a lightweight web framework written in Python that is commonly used for backend development. It provides tools and libraries for building web applications, handling HTTP requests, managing routing, and connecting to databases. Flask is known for its simplicity, flexibility, and scalability, making it a popular choice for developing backend systems.",
+                "name":"Laravel",
+                "whatis":"",
                 "experties":""
             }
         ]
     },
     {
-        "id":"Full Stack",
-        "techs":[]
-    },
-    {
-        "id":"Mobile",
-        "techs":[]
-    },
-    {
-        "id":"Rest-API",
-        "techs":[]
-    },
-    {
-        "id":"Desktop",
-        "tech":[]
-    },
-    {
-        "id":"Cyber Security",
-        "tech":[]
+        "id": "Desktop",
+        "techs": [
+            {
+                "name":"Java AWT/SWING",
+                "whatis":"Java AWT/Swing is a set of libraries in Java used for creating desktop applications with graphical user interfaces (GUIs). It provides components such as buttons, menus, and text fields, enabling developers to build interactive and visually appealing software for Windows, macOS, and Linux platforms.                ",
+                "experties":"I have a strong expertise in Java AWT/Swing, which are powerful frameworks for building graphical user interfaces (GUIs) in Java applications. I am proficient in developing interactive and visually appealing UI components, handling events, and managing layouts using AWT/Swing. I have hands-on experience in creating custom controls, implementing data binding, and utilizing advanced features such as drag-and-drop functionality. My solid knowledge in AWT/Swing allows me to design intuitive user interfaces and deliver seamless user experiences. I am confident that my expertise in Java AWT/Swing will greatly contribute to the success of your team and projects."
+            },
+            {
+                "name":"Java FX",
+                "whatis":"JavaFX is a software platform that enables developers to create visually appealing desktop applications using Java programming language. It provides a rich set of libraries and tools for building interactive user interfaces with features like graphics, animation, and media support.",
+                "experties":"I have a strong expertise in JavaFX, which is a powerful framework for building rich, interactive user interfaces in Java. I have extensive experience in developing JavaFX applications, including designing and implementing complex UI components, event handling, data binding, and integrating with backend systems. I am proficient in leveraging JavaFX's features, such as scene graph, CSS styling, and animations, to create visually appealing and responsive applications. With my deep understanding of JavaFX's architecture and best practices, I am confident in delivering high-quality and user-friendly applications using this technology."
+            },
+            {
+                "name":"Flutter",
+                "whatis":"Flutter for desktop is a UI framework that enables developers to build cross-platform desktop applications using a single codebase. It allows for the creation of visually appealing and high-performance apps on platforms like Windows, macOS, and Linux, using Flutter's expressive and fast development environment.",
+                "experties":"My expertise in Flutter Desktop is comprehensive and strong. I have extensive knowledge and hands-on experience in developing cross-platform desktop applications using Flutter, a versatile framework for building beautiful and responsive user interfaces. I am proficient in leveraging Flutter's capabilities to create desktop applications that run seamlessly on multiple platforms, including Windows, macOS, and Linux. With my deep understanding of Flutter's widgets, UI/UX design principles, and platform-specific integrations, I am confident in my ability to deliver high-quality and performant desktop applications using Flutter."
+            },
+            {
+                "name":"Electron Js",
+                "whatis":"Electron JS is a framework that allows developers to build desktop applications using web technologies such as HTML, CSS, and JavaScript. It provides a cross-platform solution, enabling the creation of native-like applications for Windows, macOS, and Linux using a single codebase.                ",
+                "experties":"I possess a strong expertise in Electron Desktop application development. With extensive knowledge in Electron framework, I have successfully built cross-platform desktop applications using web technologies such as HTML, CSS, and JavaScript. My experience includes creating feature-rich and interactive user interfaces, integrating with backend APIs, implementing data storage and synchronization, and ensuring optimal performance. I am well-versed in leveraging Electron's capabilities to deliver robust and intuitive desktop applications that meet user requirements. My expertise in Electron positions me as a highly qualified candidate for this role.                "
+            }
+        ]
     }
+    
 ]

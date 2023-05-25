@@ -9,7 +9,7 @@
                        <span class="titlename"> {{data[i].id}}</span>
                       <ng-container *ngFor="let item of data; let a=index"> <span class="titlechildmenu" (click)='update(a,0)' *ngIf="a!=i"  >{{item.id}} </span></ng-container>
                       
-                       <span  style="margin: 14vw;margin-top: 0vw;margin-bottom: 0vw;"></span> 
+                       <span  style="margin: 16vw;margin-top: 0vw;margin-bottom: 0vw;"></span> 
                        <span class="titlechildrightmenu"><mat-icon  class="rotate-90 w-fit  h-fit">battery_full</mat-icon></span>
                        <span class="titlechildrightmenu"><mat-icon class="w-fit h-fit ">signal_wifi_4_bar</mat-icon></span>
                        <span class="titlechildrightmenu"><mat-icon class="w-fit h-fit ">volume_up</mat-icon></span>
@@ -39,7 +39,7 @@
                             <label class="rounded cursor-pointer"  *ngFor="let item of data[i].techs; let a = index" (click)='update(a,1)' [ngClass]="{'text-white bg-orange-300': a==itech}">{{item.name}} </label> 
                         </div>
                         <div class="skill-content">
-                            <h2 >What is Nav?</h2>
+                            <h2 >What is {{data[i].techs[itech].name}}?</h2>
                              <p>{{data[i].techs[itech].whatis}}</p>
                             <h2>My Experties?</h2>
                             <p>{{data[i].techs[itech].experties}}</p>
