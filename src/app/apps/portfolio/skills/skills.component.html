@@ -5,14 +5,11 @@
             <div class="screen m-auto left-0 right-0  "> 
                 <div class="screen-ch relative">
                     <div class="title">
-                        <span class="titlename"> <i class="fa-brands fa-apple"></i></span>
-                       <span class="titlename"> Programming  Skills</span>
-                       <span class="titlechildmenu">Web</span>
-                       <span class="titlechildmenu">Mobile</span>
-                       <span class="titlechildmenu">WebService</span>
-                       <span class="titlechildmenu">Cyber Security</span>
-                       <span class="titlechildmenu">Dev Opps </span>
-                       <span style="margin-left: 1vw;margin-right: 16vw;"></span>
+                        <span class="titlename"> <i class="fa-brands fa-apple "></i></span>
+                       <span class="titlename"> {{data[i].id}}</span>
+                      <ng-container *ngFor="let item of data; let a=index"> <span class="titlechildmenu" (click)='update(a,0)' *ngIf="a!=i"  >{{item.id}} </span></ng-container>
+                      
+                       <span  style="margin: 14vw;margin-top: 0vw;margin-bottom: 0vw;"></span> 
                        <span class="titlechildrightmenu"><mat-icon  class="rotate-90 w-fit  h-fit">battery_full</mat-icon></span>
                        <span class="titlechildrightmenu"><mat-icon class="w-fit h-fit ">signal_wifi_4_bar</mat-icon></span>
                        <span class="titlechildrightmenu"><mat-icon class="w-fit h-fit ">volume_up</mat-icon></span>
@@ -20,7 +17,7 @@
                        <span class="titlechildrightmenu">{{months[now.getMonth()]}} {{now.getDate()}} </span>
                        <span class="titlechildrightmenu">{{(hour<10)?"0"+hour:hour}}:{{(now.getMinutes()<10)? "0"+now.getMinutes():now.getMinutes()}} {{time}}</span>
                     </div>
-                    <div class="skill">
+                    <div class="skill border-b-2 border-b-white">
                        <div class="skill-title-baar block">
                             <div class="tool-action inline-block ">
                                 <span class="tool-1 m-auto">🔴</span>
@@ -28,7 +25,7 @@
                                 <span class="tool-1 m-auto">🟢</span>
                             </div>
                             <div class="inline-block m-auto title-toolbaar font-medium">
-                                Web
+                              {{data[i].id}}
                             </div>
                        </div>
                       
@@ -39,19 +36,13 @@
                             </h2>  
                             
                             <mat-divider></mat-divider>
-                            <label > HTML CSS JS</label>
-                            <label > React </label>                
-                            <label > Angular </label>
-                            <label > Vue Js</label>
-                            <label > Flutter</label>
-                            <label > Word Press</label>
-
+                            <label class="rounded cursor-pointer"  *ngFor="let item of data[i].techs; let a = index" (click)='update(a,1)' [ngClass]="{'text-white bg-orange-300': a==itech}">{{item.name}} </label> 
                         </div>
                         <div class="skill-content">
                             <h2 >What is Nav?</h2>
-                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum commodi ullam quo repellendus animi architecto. Rerum illum ipsa velit, quidem aliquid id repudiandae nostrum ad quaerat reiciendis ducimus, eius amet.</p>
+                             <p>{{data[i].techs[itech].whatis}}</p>
                             <h2>My Experties?</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis odio laborum tempore incidunt ut, nulla beatae consectetur harum sapiente natus illum ullam eius quis non provident ad sed, esse possimus fugiat repellendus. Rem error corrupti optio magni eaque ipsam ex quisquam quibusdam, eligendi soluta totam architecto minima. Mollitia eveniet ipsam fuga expedita libero dignissimos harum atque nemo amet repellendus, odit, quidem eum quaerat non adipisci consequuntur tempore? Voluptas, atque? Praesentium, voluptatibus, suscipit est a officia sunt quidem animi modi ullam accusamus dolores, vero voluptatem eos. Quia soluta eius dolorem, alias facilis quo possimus repudiandae itaque ex laudantium neque commodi quis?</p>
+                            <p>{{data[i].techs[itech].experties}}</p>
                         </div>
                         <div class="skill-navigation-image">
                          

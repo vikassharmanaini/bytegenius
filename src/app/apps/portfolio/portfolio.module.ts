@@ -12,6 +12,9 @@ import { SkillsComponent } from './skills/skills.component';
 import { MatCardModule } from '@angular/material/card';
 import { MatDividerModule } from '@angular/material/divider';
 import { ImpressionComponent } from './impression/impression.component';
+import { KeySkillsComponent } from './key-skills/key-skills.component';
+import { HttpClientModule } from '@angular/common/http';
+import { LearnService } from 'src/app/service/learn.service';
 @NgModule({
   declarations: [
     PortfolioComponent,
@@ -19,7 +22,8 @@ import { ImpressionComponent } from './impression/impression.component';
     QualificationsComponent,
     SocialComponent,
     SkillsComponent,
-    ImpressionComponent
+    ImpressionComponent,
+    KeySkillsComponent
   ],
   imports: [
     CommonModule,
@@ -27,6 +31,10 @@ import { ImpressionComponent } from './impression/impression.component';
     MatIconModule,
     MatCardModule,
     MatDividerModule,
+    HttpClientModule
+  ],
+  providers:[
+    LearnService
   ]
 })
 export class PortfolioModule { }

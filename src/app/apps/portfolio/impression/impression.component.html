@@ -2,21 +2,21 @@
     <h2 class="text-2xl font-bold mx-4 my-4">#Certifications</h2>
     <div class="tablets">
         <div class="openbook" routerLink="./../port">
-            <h2> Open Documents</h2>
+            <h2> Open 3D Documents ⬀</h2> 
         </div>
         <div class="tablet1 tb">
-            <div class="certificate"></div>
+            <div class="certificate" style="background-image: url('{{certificate[i]}}') ;  background-size: 27.5vw 19.5vw;"></div>
         </div>
         <div class="tablet2 tb">
-            <div class="certificate"></div>
+            <div class="certificate" style="background-image: url('{{certificate[i+1]}}');  background-size: 27.5vw 19.5vw;"></div>
         </div>
         <div class="tablet3 tb">
-            <div class="certificate"></div>
+            <div class="certificate" style="background-image: url('{{certificate[i+2]}}');  background-size: 27.5vw 19.5vw;"></div>
         </div>
     </div>
     <div class="buttons">
-        <button class="rounded-full bg-slate-500  text-center text-white nav-button" mat-fab color="warn"><mat-icon>navigate_before</mat-icon></button>
-        <h3> showing 1 to 3 of 10 </h3>
-        <button class="rounded-full bg-slate-500  text-center text-white nav-button" mat-fab color="warn"><mat-icon>navigate_next</mat-icon></button>
+        <button class="rounded-full bg-slate-500  text-center text-white nav-button" mat-fab color="warn" (click)="before()"><i class="fa-solid fa-arrow-left"></i></button>
+        <h3> Showing {{i+1}} to {{i+3}} of {{certificate.length}} </h3>
+        <button class="rounded-full bg-slate-500  text-center text-white nav-button" mat-fab color="warn" (click)="next()"><i class="fa-solid fa-arrow-right"></i></button>
     </div>
 </div>

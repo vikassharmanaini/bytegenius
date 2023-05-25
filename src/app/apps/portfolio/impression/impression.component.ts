@@ -6,11 +6,23 @@ import { Component } from '@angular/core';
   styleUrls: ['./impression.component.css']
 })
 export class ImpressionComponent {
-  items = [
-    { imageUrl: '../../../../assets/A Good Looking  1.png' },
-    { imageUrl: '../../../../assets/mac-os-ventura-dark-5k-fe.jpg' },
-    { imageUrl: '../../../../assets/A Good Looking  1.png' },
-    // Add more items as needed
-  ];
+  certificate= [
+    "../../../../assets/certificate/java_basic certificate_page-0001.jpg",
+    "../../../../assets/certificate/internship_certificate_page-0001.jpg",
+    "../../../../assets/certificate/_uploads_stu_certificate_33_page-0001.jpg",
+    "../../../../assets/certificate/88666744_page-0001.jpg",
+    "../../../../assets/certificate/87410404_page-0001.jpg"
+  ]
+  i = 0;
+  next(){
+    if (this.i<this.certificate.length-3) {
+      this.i++;
+    }
+  }
+  before(){
+    if (this.i>0) {
+      this.i--;
+    }
+  }
 
 }

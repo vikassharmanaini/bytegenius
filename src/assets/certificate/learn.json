@@ -1,0 +1,99 @@
+[
+    {
+        "id":"WFrontend",
+        "techs":[
+            {
+                "name":"HTML, CSS & JS",
+                "whatis":"HTML (HyperText Markup Language) is a markup language used to structure the content of web pages. CSS (Cascading Style Sheets) is used to define the presentation and layout of HTML elements. JavaScript is a programming language that adds interactivity and dynamic behavior to web pages.",
+                "experties":"I have a strong expertise in HTML, CSS, and JavaScript, which are the core technologies for building modern websites and web applications. I have extensive experience in creating responsive layouts, styling web pages with CSS, and implementing interactive functionality using JavaScript. I am proficient in using various frameworks and libraries such as Bootstrap and jQuery. Additionally, I possess a solid understanding of cross-browser compatibility and web accessibility standards. With my skills, I am confident in delivering high-quality web solutions that meet the desired requirements and enhance user experiences."
+            },
+            {
+                "name":"React",
+                "whatis":"React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the user interface as the application state changes. React follows a component-based approach and provides a virtual DOM for optimal performance and efficient rendering.",
+                "experties":"I have a strong expertise in React, a popular JavaScript library for building user interfaces. I have hands-on experience in developing dynamic and responsive web applications using React components and its ecosystem. I am proficient in utilizing React's state management and component lifecycle methods to create scalable and efficient applications. I have also worked with React Router for navigation and Redux for global state management. With my React skills, I am confident in delivering highly interactive and performant web solutions that enhance user experiences.  "
+            },
+            {
+                "name":"Vue JS",
+                "whatis":"Vue.js is a progressive JavaScript framework used for building user interfaces in web development. It enables developers to create interactive and responsive applications by providing a declarative approach to binding data and components, facilitating efficient development and enhanced user experiences.",
+                "experties":"While I have beginner-level experience in Vue.js, I am enthusiastic about expanding my expertise in this JavaScript framework. I have completed several projects using Vue.js, gaining hands-on experience in creating interactive and dynamic user interfaces. I am familiar with Vue's component-based architecture and its reactivity system. I am eager to continue learning and honing my skills in Vue.js, and I believe my solid foundation in JavaScript and front-end development will contribute to my growth in this framework. I am excited about the opportunity to further develop my expertise in Vue.js and contribute to the team's success."
+            },
+            {
+                "name":"Angular",
+                "whatis":"Angular is a popular JavaScript framework for building dynamic web applications. It provides a structured approach to develop scalable and maintainable front-end code. Angular combines declarative templates, dependency injection, and powerful data binding to simplify the development process and enhance the user experience.",
+                "experties":"I have advanced-level expertise in Angular, a powerful TypeScript-based framework for building robust web applications. I have a strong command over Angular concepts, such as components, services, directives, and modules. I have successfully delivered complex projects using Angular, leveraging its powerful features like data binding, dependency injection, and routing. I am well-versed in Angular's Reactive Forms and HttpClient for handling data submission and retrieval. Additionally, I have experience integrating Angular applications with back-end APIs and working with tools like Angular CLI and Angular Material. With my advanced Angular skills, I am confident in delivering scalable and maintainable applications that meet business requirements."
+            },
+            {
+                "name":"Flutter",
+                "whatis":"Flutter is a UI toolkit developed by Google for creating natively compiled applications across different platforms, including the web. It uses Dart programming language and provides a reactive framework for building interactive and visually appealing user interfaces for web applications.",
+                "experties":"I have a strong expertise in Flutter for web development. I have successfully developed and deployed web applications using Flutter's framework and widgets. I am proficient in creating responsive and visually appealing user interfaces using Flutter's declarative UI paradigm. I have hands-on experience in leveraging Flutter's rich set of libraries and packages for implementing complex functionalities in web applications. Additionally, I am well-versed in integrating web APIs and handling data using Flutter's networking capabilities. With my expertise in Flutter for web development, I am confident in delivering high-quality and performant web solutions to meet the desired requirements."
+            },
+            {
+                "name":"Word Press",
+                "whatis":"WordPress is a popular content management system (CMS) used in web frontend development. It provides a user-friendly interface for managing website content and themes. With its extensive plugin ecosystem, developers can customize and enhance websites built on WordPress to meet specific requirements.",
+                "experties":"I have a strong expertise in WordPress, a widely used content management system (CMS) for building websites. I have extensive experience in customizing and developing WordPress themes and plugins. I am proficient in leveraging the WordPress ecosystem to create user-friendly and scalable websites. I have a solid understanding of WordPress coding standards, hooks, and APIs. Additionally, I possess strong troubleshooting and debugging skills in WordPress. With my expertise in WordPress, I am confident in delivering high-quality and efficient solutions that meet the specific needs of clients and enhance their online presence."
+            }
+
+        ]
+    },
+    {
+        "id":"WBackend",
+        "techs":[
+            {
+                "name":"JAVA EE",
+                "whatis":"Java EE (Java Platform, Enterprise Edition) is a set of specifications and APIs (Application Programming Interfaces) that provide a robust and scalable platform for developing enterprise-level applications on the backend. It includes features for database connectivity, web services, messaging, security, and more, enabling developers to build complex and distributed systems.",
+                "experties":""
+            },
+            {
+                "name":"JAVA Spring",
+                "whatis":"Spring is a widely used framework for backend development in Java. It provides a comprehensive set of features and tools for building enterprise-grade applications. Spring simplifies tasks such as database access, dependency injection, security, and more, promoting efficient and scalable backend development.",
+                "experties":""
+            },
+            {
+                "name":"Laravel",
+                "whatis":"Laravel is a PHP-based web application framework used for backend development. It provides a robust set of tools and features to streamline the creation of web applications. Laravel follows the Model-View-Controller (MVC) architectural pattern and offers functionalities like routing, database management, caching, and session handling.",
+                "experties":""
+            },
+            {
+                "name":"Node JS",
+                "whatis":"Node.js is a server-side JavaScript runtime environment that allows developers to build scalable and efficient backend applications. It uses an event-driven, non-blocking I/O model, making it ideal for handling concurrent requests. Node.js enables developers to write server-side code using JavaScript, facilitating seamless full-stack development.",
+                "experties":""
+            },
+            {
+                "name":"PHP",
+                "whatis":"PHP (Hypertext Preprocessor) is a server-side scripting language used for backend development. It enables the creation of dynamic web applications by processing data, interacting with databases, and generating dynamic web pages. PHP is widely used in conjunction with web frameworks like Laravel, CodeIgniter, and Symfony for building robust backend systems.",
+                "experties":""
+            },
+            {
+                "name":"Django",
+                "whatis":"Django is a high-level Python web framework used in backend development. It follows the model-view-controller (MVC) architectural pattern and provides a robust set of tools and libraries for building scalable and secure web applications. Django handles tasks such as URL routing, database integration, session management, and form handling.",
+                "experties":""
+
+            },
+            {
+                "name":"Flask",
+                "whatis":"Flask is a lightweight web framework written in Python that is commonly used for backend development. It provides tools and libraries for building web applications, handling HTTP requests, managing routing, and connecting to databases. Flask is known for its simplicity, flexibility, and scalability, making it a popular choice for developing backend systems.",
+                "experties":""
+            }
+        ]
+    },
+    {
+        "id":"Full Stack",
+        "techs":[]
+    },
+    {
+        "id":"Mobile",
+        "techs":[]
+    },
+    {
+        "id":"Rest-API",
+        "techs":[]
+    },
+    {
+        "id":"Desktop",
+        "tech":[]
+    },
+    {
+        "id":"Cyber Security",
+        "tech":[]
+    }
+]
