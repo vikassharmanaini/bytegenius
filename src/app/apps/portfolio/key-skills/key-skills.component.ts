@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-key-skills',
   templateUrl: './key-skills.component.html',
   styleUrls: ['./key-skills.component.css',
-  '../../../../assets/n/style.css',
+  // '../../../../assets/n/style.css',
 ]
 })
 export class KeySkillsComponent {
