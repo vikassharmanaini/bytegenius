@@ -15,6 +15,7 @@ import { ImpressionComponent } from './impression/impression.component';
 import { KeySkillsComponent } from './key-skills/key-skills.component';
 import { HttpClientModule } from '@angular/common/http';
 import { LearnService } from 'src/app/service/learn.service';
+import { ProjectComponent } from './project/project.component';
 @NgModule({
   declarations: [
     PortfolioComponent,
@@ -23,7 +24,8 @@ import { LearnService } from 'src/app/service/learn.service';
     SocialComponent,
     SkillsComponent,
     ImpressionComponent,
-    KeySkillsComponent
+    KeySkillsComponent,
+    ProjectComponent
   ],
   imports: [
     CommonModule,

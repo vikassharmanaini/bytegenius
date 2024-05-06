@@ -15,6 +15,8 @@ export class NavbaarComponent {
     //Add 'implements OnInit' to the class.
   }
   toggleNavbar( ): void {
-    this.isNavbarExpanded = !this.isNavbarExpanded;
+    console.log("working");
+    
+    this.isNavbarExpanded = !this.isNavbarExpanded.valueOf;
   }
 }
